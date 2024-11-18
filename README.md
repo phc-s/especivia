@@ -2,7 +2,7 @@
 
 ## About project
 
-Especivia is a project of a startup, which focuses on creating a mobile app that brings a platform where private drivers and disabled people can reunite on the special app that viabilizes connections, opportunities and charity through this all-new innovative idea of a platform, that ensures security, quality and affordability it this way!  
+Especivia is a project of a startup, which focuses on creating a mobile app that brings a platform where private drivers and disabled people can reunite on the special app that viabilizes connections, opportunities and charity through this all-new innovative idea of a platform, that ensures security, quality and affordability it this way! it initially pretends to serve only in Pernambuco and later expand to nationwide or even internationally if successful.
 
 This app is being developed as an integrated project with the help of my teachers of Technical Course of Development Systems in ETE Cicero Dias.
 
@@ -24,9 +24,9 @@ This repository will store all of the essential assets, design documents, wirefr
 + App Prototypes
 + App Guide
 + App Design Assets
-+ and more!
++ App Pitch Slideshow
 
-## Prototype: 
+## Prototypes: 
 
 #### High-fidelity:
 + Portugues Brasileiro: (https://www.figma.com/proto/3pVl7lFM7ZgBCjl9gefiuC/Especivia-(pt-BR)?t=D8InSrNIdnUCdz7y-1)
@@ -34,6 +34,9 @@ This repository will store all of the essential assets, design documents, wirefr
 #### Low-fidelity:
 + Portugues Brasileiro: **( Coming soon )**
 + English: **( Coming soon )**
+#### Web:
++ Portugues Brasileiro: https://www.figma.com/design/IjGRoigY7OJfIQrkvrqwrI/Especivia-Web-(pt-BR)?m=dev&t=pr9P9V7xPESnHPkU-1
++ English: https://www.figma.com/design/3irV291gBC9I33fJ9JWeeB/Especivia-Web-(en-US)?t=pr9P9V7xPESnHPkU-0
 
 ## Developers
 
