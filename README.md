@@ -42,7 +42,8 @@ This repository will store all of the essential assets, design documents, wirefr
 
 ## License
 
-Coming Soon
+Especivia is licensed under GNU General Public License v3.0+
++ https://github.com/phc-s/especivia/blob/main/LICENSE
 
 ## Credits
 
