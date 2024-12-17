@@ -1,15 +1,13 @@
-![image](svg/banner.svg)
+>[!NOTE]
+> Work in Progress, so expect uncompleted sections, unpolished details for now, some of them find private for a while.
 
-## About project
+## About project 🚙: 
 
-Especivia is a concept project of a startup, which focuses on creating a mobile app that brings a platform where private drivers of cars, vans or even buses and disabled people can reunite on the special app that allows connections, both in particular and B2B models, Opportunities and charity through this all-new innovative idea of a platform, that ensures security, quality and affordability! It initially pretends to serve only in Pernambuco and later expand to nationwide or even internationally if successful.
+Especivia is a concept project of a startup, which focuses on creating a mobile app that brings a platform where private drivers of a variety of vehicles, alongside disabled people can reunite on the special app that allows connections between them, both in particular and B2B models, Opportunities and charity through this all-new innovative idea of a platform, that ensures security, quality and affordability!
 
 This app started as an integrated project, with initially the help of my teachers of Technical Course of Development Systems in ETE Cicero Dias. This project will proceed further beyond this technical course. Since i`m really interested into it, for while, i do not plan this being reality for now.
 
->[!NOTE]
-> Especivia project, including this README.md, finds in major Work In Progress, so expect uncompleted sections, unpolished details for now, some of them find private for a while.
-
-## About repository
+## About repository ✉️:
 
 #### Information & Projects: 
 
@@ -28,7 +26,7 @@ This repository will store all of the essential assets, design documents, wirefr
 + App Pitch Slideshow
 + App Builds Downloads
 
-## Prototypes: 
+## Prototypes 🖱️: 
 
 #### Mobile:
 
@@ -40,12 +38,12 @@ This repository will store all of the essential assets, design documents, wirefr
 + Portugues Brasileiro: https://www.figma.com/design/IjGRoigY7OJfIQrkvrqwrI/Especivia-Web-(pt-BR)?m=dev&t=pr9P9V7xPESnHPkU-1
 + English: https://www.figma.com/design/3irV291gBC9I33fJ9JWeeB/Especivia-Web-(en-US)?t=pr9P9V7xPESnHPkU-0
 
-## License
+## License 📕:
 
 Especivia is licensed under GNU General Public License v3.0+
 + https://github.com/phc-s/especivia/blob/main/LICENSE
 
-## Credits
+## Credits 👨‍💻:
 
-- **Pedro Henrique Costa Silva - Main Developer** (https://github.com/phc-s) 
-- **Luis Guilherme Costa Silva - Some minor help** (https://github.com/lgc-s)
+- **Pedro Henrique Costa Silva -** Main Developer (https://github.com/phc-s) 
+- **Luis Guilherme Costa Silva -** Some minor help (https://github.com/lgc-s)
