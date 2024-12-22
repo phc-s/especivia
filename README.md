@@ -17,14 +17,12 @@ This repository will store all of the essential assets, design documents, wirefr
 + **Especivia Web:** (https://github.com/phc-s/especivia.github.io)
 + **Especivia Mobile:** (https://github.com/phc-s/especivia-app)
 
-#### Content:
+#### Projects Content:
 
 + App Design Document
-+ App Prototypes 
-+ App Guide
-+ App Design Assets
-+ App Pitch Slideshow
-+ App Builds Downloads
++ App Pitch Slideshows
++ App Source Code (Web & Mobile)
++ App Builds Downloads (Mobile)
 
 ## Prototypes 🖱️: 
 
