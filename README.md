@@ -37,7 +37,7 @@ This repository will store all of the essential assets, design documents, and al
 
 + pt-BR:
 (https://www.figma.com/design/3irV291gBC9I33fJ9JWeeB/Especivia-Web-(en-US))
-+ en-US:  
++ en-US:
 (https://www.figma.com/design/IjGRoigY7OJfIQrkvrqwrI/Especivia-Web-(pt-BR))
 
 ## License 📕:
