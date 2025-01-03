@@ -11,18 +11,19 @@ This app started as an integrated project, with initially the help of my teacher
 
 #### Information & Projects: 
 
-This repository will store all of the essential assets, design documents, and all similar planning here, the Web & Mobile applications itself will be located in different repositories, further specifications regarding technical data and other parameters will be specified below:
+This repository will store all of the essential assets, design documents, and all similar planning here, the Web & Mobile applications itself will be located in different repositories, further specifications regarding technical data and other parameters will be specified below in each repository:
 
-+ **Especivia Main:** (https://github.com/phc-s/especivia) **(This repository)**
-+ **Especivia Web:** (https://github.com/phc-s/especivia.github.io)
-+ **Especivia Mobile:** (https://github.com/phc-s/especivia-app)
++ Especivia Main: (https://github.com/phc-s/especivia) **(This repository)**
++ Especivia Web: (https://github.com/phc-s/especivia.github.io)
++ Especivia Mobile: (https://github.com/phc-s/especivia-app)
 
-#### Projects Content:
+#### Especivia Main Content:
 
-+ App Design Document (https://github.com/phc-s/especivia/blob/main/GUIDE.md)
-+ App Pitch Slideshows (https://github.com/phc-s/especivia/blob/main/SLIDE.md)
-+ App Source Code (Web & Mobile Repo.) 
-+ App Builds Downloads (Mobile Repo.)
++ Project Design Document (https://github.com/phc-s/especivia/blob/main/GUIDE.md)
++ Project Pitch Slideshows (https://github.com/phc-s/especivia/blob/main/SLIDE.md)
++ Project Prototypes (In README.md)
++ Project Essential Assets (font,svg)
++ Project Licensing (In README.md)
 
 ## Prototypes 🖱️: 
 
