@@ -11,10 +11,9 @@ This app started as an integrated project, with initially the help of my teacher
 
 #### Information & Projects: 
 
-This repository will store all of the essential assets, design documents, and all similar planning here, the Web & Mobile applications itself will be located in different repositories, further specifications regarding technical data and other parameters will be specified below in each repository:
+This repository will store all of the essential assets, design documents, and all similar planning here, the Mobile repository itself will be where the real application will be demonstrated, further specifications regarding technical data and other parameters will be specified below in each repository:
 
 + Especivia Main: (https://github.com/phc-s/especivia) **(This repository)**
-+ Especivia Web: (https://github.com/phc-s/especivia.github.io)
 + Especivia Mobile: (https://github.com/phc-s/especivia-app)
 
 #### Especivia Main Content:
@@ -22,24 +21,17 @@ This repository will store all of the essential assets, design documents, and al
 + Project Design Document (https://github.com/phc-s/especivia/blob/main/GUIDE.md)
 + Project Pitch Slideshows (https://github.com/phc-s/especivia/blob/main/SLIDE.md)
 + Project Prototypes (In README.md)
-+ Project Essential Assets (font,svg)
 + Project Licensing (In README.md)
++ Project Essential Assets (font,svg)
 
 ## Prototypes 🖱️: 
 
-#### Mobile:
+Following here, you can check Especivia prototype through Figma, available both in en-US and pt-BR.
 
 + pt-BR: 
 (https://www.figma.com/design/3pVl7lFM7ZgBCjl9gefiuC/Especivia-(pt-BR))
 + en-US: 
 (https://www.figma.com/design/v78VybZI0TVDFnk0tyvTeJ/Especivia-(en-US))
-
-#### Web:
-
-+ pt-BR:
-(https://www.figma.com/design/3irV291gBC9I33fJ9JWeeB/Especivia-Web-(en-US))
-+ en-US:
-(https://www.figma.com/design/IjGRoigY7OJfIQrkvrqwrI/Especivia-Web-(pt-BR))
 
 ## License 📕:
 
