@@ -30,9 +30,8 @@ Following here, you can check Especivia prototype through Figma, available both 
 
 + pt-BR: 
 (https://www.figma.com/design/3pVl7lFM7ZgBCjl9gefiuC/Especivia-(pt-BR))
-+ en-US: 
-(https://www.figma.com/design/v78VybZI0TVDFnk0tyvTeJ/Especivia-(en-US))
-
++ en-US:
+(https://www.figma.com/design/i1CIbGhPOC0RxlwOaz7qYj/Especivia-(en-US))
 ## License 📕:
 
 Especivia is licensed under GNU General Public License v3.0+
