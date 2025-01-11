@@ -1,1 +1,25 @@
-Coming Soon...
+## Especivia Guide. How it works.
+
+### About App
+
+Especivia is a platform where you can, unlike Uber and other ridesharing apps, this app acts like a portal to find private drivers to provide a quality service to it`s clients. It's relationship between the both parts happens in a contract way, being subject to regional laws of your jurisdiction. Any additional taxes could be added. 
+
+It`s main feature is the versatility that it offers...
+
+Coming soon...
+
+### About Development
+
+Coming soon...
+
+### Target Audience
+
+Coming soon...
+
+### Using the App
+
+Coming soon...
+
+### Privacy Policy
+
+Coming soon...
