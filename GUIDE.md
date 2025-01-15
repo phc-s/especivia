@@ -20,6 +20,10 @@ Coming soon...
 
 Coming soon...
 
-### Privacy Policy
+### Proposed Privacy Policy
 
-Coming soon...
+Especivia app values your data, we will never sell your data to advertisers and third party apps, Especivia share only with partners that let the app work. If changes happen in this section, Especivia will properly notify the updates. 
+
+Since the project is conceptual, we are not addressing the collected data, but when needed, a list will be right there to show transparency in how we handle your valorous data!
+
+
