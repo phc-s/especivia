@@ -1,5 +1,5 @@
->[!NOTE]
-> Work in Progress, so expect uncompleted sections, unpolished details for now, some of them find private for a while.
+![image](https://github.com/user-attachments/assets/68a8bf47-26b5-4566-95fd-1b5ca802a1d4)
+
 
 ## About project 🚙: 
 
