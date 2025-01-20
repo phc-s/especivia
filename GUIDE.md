@@ -2,9 +2,13 @@
 
 ## About App
 
-Especivia is a platform where you can, unlike Uber and other ridesharing apps, this app acts like a portal to find private drivers to provide a quality service to it`s clients. It's relationship between the both parts happens in a contract way, being subject to regional laws of your jurisdiction. Any additional taxes could be added. 
+*With Especivia, everyone has a way to be special!*
 
-Its main feature is the versatility that it offers to the users, allowing customization regarding choices, services and opportunities for both parties. There are 2 main types of profiles in Especivia, the Driver and the Passenger.
+Especivia is a platform where you can, unlike Uber and other ridesharing apps, this app acts like a portal to find private drivers to provide a quality service to its clients. It's relationship between the both parts happens in a contract way, being subject to regional laws of your jurisdiction. Any additional taxes could be added. It`s an idea that sails in blue seas, giving innovation at hands.
+
+Its main feature is the versatility that it offers to the users, allowing customization regarding choices, services and opportunities for both parties. There are 2 main types of profiles in Especivia, the Driver and the Passenger. each of them offers different experiences. they can share a caregiver to the service too.
+
+Differentials from our app is the safety, efficiency, quality, acessibility and customization possible with the app. some of highlights include a 24h special assistance, transparency regadring how we use our data, enterpreneurship through a free market. Even allowing to use our platform to provide charity services.
 
 ## Target Audience
 
@@ -30,13 +34,14 @@ After the splash screen, if you're using for the first time or you just log off 
 + Driver license
 + Car Model
 + Identity number
++ Bank Credentials
 + Anymore similar data
 
-There some additional info that you need to provide us to customize your experience and make you visible into the platform. It`s defining all of information of your profile, like profile photo, tags, and a basic description, you as a driver will also need to provide specific details regarding 
+There some additional info that you need to provide us to customize your experience and make you visible into the platform. It`s defining all of the information on your profile, like profile photo, tags, and a basic description, you as a driver will also need to provide specific details regarding your car model, and the equipment / support you offer.
 
-What's the deal with
+The last step is paying a monthly fee if you use our service effectively, if you don`t use during a month, you will not be charged. You can ask if you have financial difficults to pay no fee, justifying and proving to us your situation with some credentials and verifications.
 
-After the account was successfully created. You can navigate into main menu of the application, as you can opt to various options, i will only cover the experience of the new
+After the account was successfully created. You can navigate into main menu of the application, as you can opt to various options, i will only cover the experience of the newly created account of a driver.
 
 ## Proposed Privacy Policy
 
