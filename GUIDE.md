@@ -18,9 +18,9 @@ Yet, Especivia makes clear that we don`t want to discriminate any specific publi
 
 ## Using the App
 
-**Important Note: Only the current visible user experience within prototype will be detailed**
+**Important Note: Only the current visible user experience within prototype will be detailed.**
 
-**Warning: If there`s something wrong related to data nomenclature, contact me**
+**Warning: If there`s something wrong related to data nomenclature, contact me.**
 
 
 After the splash screen, if you're using for the first time or you just log off of your account previousky, you will get in a screen to choose between login or sign-up, login to access a existing account using your e-mail and password, and also a 2FA if configured. Sign up itself is the place where you put your essential information to create a account to be able to utilize Especivia application. you can put here all of the needed data, you will also need face biometrics to ensure that`s you a true user:
@@ -41,7 +41,32 @@ There some additional info that you need to provide us to customize your experie
 
 The last step is paying a monthly fee if you use our service effectively, if you don`t use during a month, you will not be charged. You can ask if you have financial difficults to pay no fee, justifying and proving to us your situation with some credentials and verifications.
 
-After the account was successfully created. You can navigate into main menu of the application, as you can opt to various options, i will only cover the experience of the newly created account of a driver.
+After the account was successfully created. You can navigate into main menu of the application, as you can opt to various options, i will only cover the experience of the newly created account of a client. 
+
+Before detailing the main use of application, you need objectively to config your app preferences, that`s highly suggested for ensuring a better experience for you, go to the configurations, being accessible both on login screen and main menu. The options available in config section do not have any connection to your account, being stand-alone and lost when uninstalling Especivia, the options available to toggle is:
+
+**Accessibility**
+
++ Color Blindness Mode
++ Descriptive Audio
++ Bigger letters
++ Smooth Animations
++ Dyslexic Fonts
++ And more others...
+
+**System**
+
++ Mobile Data
++ Notifications
++ Toggle theme
++ Location Tracking
+
+After getting to know about the configurations section, let`s dive into the 4 main sections of the app. I'm going to summary each of them:
+
++ **Request Trip** - Call your driver(s) to serve you in a trip.
++ **Search** - Search to find new drivers to contract.
++ **Status** - Manage your relationships, payments and account details
++ **Help** - Get help from Especivia through various options of contact. 
 
 ## Proposed Privacy Policy
 
