@@ -1,5 +1,6 @@
 ![slide_readme](https://github.com/user-attachments/assets/2775033f-3f7f-47df-a0b7-e592ab70db58)
 ## Especivia Slideshows
+*With Especivia, everyone has a way to be special!*
 
 Below this description, you can follow & visualize Especivia pitches that are made for general demonstration for public, used in activities and personal practice. They`re made with Google Slides. **Check it out!**
 
