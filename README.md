@@ -2,6 +2,7 @@
 
 
 ## About project 🚙: 
+*With Especivia, everyone has a way to be special!*
 
 Especivia is a concept project of a startup, which focuses on creating a mobile app that brings a platform where private drivers of a variety of vehicles, alongside disabled people can reunite on the special app that allows connections between them, both in particular and B2B models, Opportunities and charity through this all-new innovative idea of a platform, that ensures security, quality and affordability!
 
