@@ -1,4 +1,4 @@
-![slide_readme](https://github.com/user-attachments/assets/2775033f-3f7f-47df-a0b7-e592ab70db58)
+![image](https://github.com/user-attachments/assets/e624a1ae-da2e-4f27-bfea-4f8ab63dfdce)
 ## Especivia Slideshows
 *With Especivia, everyone has a way to be special!*
 
