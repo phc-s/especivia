@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9e5ebf9b-95a4-4228-99e2-5275e6f379b4)
+![image](https://github.com/user-attachments/assets/186da6a8-a2d8-4320-a41f-49139ba198cb)
 
 ## About App
 
@@ -23,7 +23,7 @@ Yet, Especivia makes clear that we don`t want to discriminate any specific publi
 **Warning: If there`s something wrong related to data nomenclature, contact me.**
 
 
-After the splash screen, if you're using for the first time or you just log off of your account previousky, you will get in a screen to choose between login or sign-up, login to access a existing account using your e-mail and password, and also a 2FA if configured. Sign up itself is the place where you put your essential information to create a account to be able to utilize Especivia application. you can put here all of the needed data, you will also need face biometrics to ensure that`s you a true user:
+After the splash screen, if you're using for the first time or you just log off of your account previously, you will get in a screen to choose between login or sign-up, login to access a existing account using your e-mail and password, and also a 2FA if configured. Sign up itself is the place where you put your essential information to create a account to be able to utilize Especivia application. you can put here all of the needed data, you will also need face biometrics to ensure that`s you a true user:
 
 + Complete Name
 + Address and Zip code
@@ -31,11 +31,13 @@ After the splash screen, if you're using for the first time or you just log off 
 + Phone number
 + E-mail address
 + Password
-+ Driver license
-+ Car Model
++ Driver license*
++ Car Model*
 + Identity number
 + Bank Credentials
 + Anymore similar data
+
+*Only driver accounts need to provide those data.
 
 There some additional info that you need to provide us to customize your experience and make you visible into the platform. It`s defining all of the information on your profile, like profile photo, tags, and a basic description, you as a driver will also need to provide specific details regarding your car model, and the equipment / support you offer.
 
@@ -70,7 +72,7 @@ After getting to know about the configurations section, let`s dive into the 4 ma
 
 ## Proposed Privacy Policy
 
-Especivia app values your data, we will never sell your data to advertisers and third party apps, Especivia share only with partners that let the app work. If changes happen in this section, Especivia will properly notify the updates. The data you provide can also vary depending from your jurisdiction.
+Especivia app values your data, we will never sell your data to advertisers and third party apps, Especivia share only with partners that let the app work. If changes happen in this section, Especivia will properly notify the updates. The data you provide can also vary depending from your jurisdiction. Your data may be accessed by authorities if needed for any kind of justified investigation.
 
 Since the project is conceptual, we are not addressing the collected data, but when needed, a list will be right there to show transparency in how we handle your valorous data!
 
