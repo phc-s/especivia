@@ -16,14 +16,14 @@ This repository will store all of the essential assets, design documents, and al
 
 + Especivia Main: (https://github.com/phc-s/especivia) **(This repository)**
 + Especivia Mobile: (https://github.com/phc-s/especivia-app)
-+ Especivia Webpage: (https://github,com/phc-s/especivia-web) 
++ Especivia Webpage: (https://github.com/phc-s/especivia-web) 
 
 #### Especivia Main Content:
 
 + Project Design Document (https://github.com/phc-s/especivia/blob/main/GUIDE.md)
 + Project Pitch Slideshows (https://github.com/phc-s/especivia/blob/main/SLIDE.md)
 + Project Prototypes (In README.md)
-+ Project Essential Assets (font,svg)
++ Project Logo and Fonts (font,svg folders)
 
 ## Prototypes 🖱️: 
 
