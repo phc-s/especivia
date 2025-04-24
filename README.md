@@ -29,10 +29,20 @@ This repository will store all of the essential assets, design documents, and al
 
 Following here, you can check Especivia prototype through Figma, available both in en-US and pt-BR.
 
+**_Mobile App_**
+
 + pt-BR: 
 (https://www.figma.com/design/3pVl7lFM7ZgBCjl9gefiuC/Especivia-(pt-BR))
 + en-US:
 (https://www.figma.com/design/i1CIbGhPOC0RxlwOaz7qYj/Especivia-(en-US))
+
+**_Web App_**
+
++ pt-BR:
+(https://www.figma.com/design/q2blfYjFMcg5shgxjpzRBT/Especivia-Web--pt-BR-)
++ en-US:
+(https://www.figma.com/design/JoIFaoJwoTf5wnmreiChF2/Especivia-Web--en-US-)
+
 ## License 📕:
 
 Especivia is licensed under GNU General Public License v3.0+
