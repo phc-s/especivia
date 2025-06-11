@@ -51,4 +51,4 @@ Especivia is licensed under GNU General Public License v3.0+
 ## Credits 👨‍💻:
 
 - **Pedro Henrique Costa Silva -** Main Developer (https://github.com/phc-s) 
-- **Luis Guilherme Costa Silva -** Some minor help (https://github.com/lgc-s)
+- **Luis Guilherme Costa Silva -** Assistant Developer (https://github.com/lgc-s)
